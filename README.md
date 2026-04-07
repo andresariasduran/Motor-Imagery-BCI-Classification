@@ -31,7 +31,7 @@ Used Common Spatial Patterns (CSP) to find optimal spatial filters that maximize
 Implemented Linear Discriminant Analysis (LDA) for robust and fast classification, ideal for potential real-time applications.
 
 # Key Results
-Accuracy: Achieved a peak cross-validation accuracy of ~67% (significantly above the 50% chance level for a binary task).
+Accuracy: Achieved a peak cross-validation accuracy of ~70% (significantly above the 50% chance level for a binary task).
 Spatial Localization: Topographic maps clearly show activation in the C3/C4 regions (Motor Cortex).
 Artifacts (Visualizations)
 topomap_c3.png: Shows the localized neural activity during imagery tasks.
